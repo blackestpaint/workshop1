@@ -1,0 +1,26 @@
+@media screen and (max-width: 960px) {
+  nav li { display: none; }
+  nav select { display: inline-block; }
+}
+
+h1 {
+	height: 70px;
+	width: 160px;
+	float: left;
+	display: block;
+	}
+		
+/* Nav */
+nav {
+	float: right;
+	margin-top: 40px; 
+	}
+
+nav li {
+		display: inline;
+		margin-left: 15px;
+		}
+
+nav select {
+  display: none;
+}
